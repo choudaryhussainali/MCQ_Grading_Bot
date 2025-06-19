@@ -55,7 +55,7 @@ Average response time is <5 seconds on a Colab GPU (Gemini Flash model, temp
 ## Live Demo (Colab)
 | Launch | Link |
 |--------|------|
-| ▶️ **Open in Colab** | [![Open In Colab](https://raw.githubusercontent.com/googlecolab/open_in_colab/master/data/icons/colab-badge.svg)](https://colab.research.google.com/github/choudaryhussainali/MCQ_Grading_Bot/blob/main/MCQ_Grading_Bot.ipynb) |
+| ▶️ **Open in Colab** | [![click-to-open]](https://colab.research.google.com/github/choudaryhussainali/MCQ_Grading_Bot/blob/main/MCQ_Grading_Bot.ipynb) |
 
 > The Colab notebook comes pre‑installed with requirements and uses **Colab Secrets** so your API keys stay private.
 
