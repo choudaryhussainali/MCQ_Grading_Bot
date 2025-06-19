@@ -6,7 +6,7 @@
 ![Gradio](https://img.shields.io/badge/Built%20with-Gradio-f06) ![Python](https://img.shields.io/badge/Built%20with-Pyhton-yellow) ![License](https://img.shields.io/badge/License-MIT-green) ![Made with ❤](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red) 
 ---
 
-![MCQ Grading Bot Screenshot](![Capture4](https://github.com/user-attachments/assets/99a8fda5-adb7-490d-b473-b6a09f45d45a)
+![MCQ Grading Bot Screenshot](https://github.com/user-attachments/assets/99a8fda5-adb7-490d-b473-b6a09f45d45a)
 
 
 
@@ -251,7 +251,4 @@ For questions or collaboration requests:
 
 > **Happy grading!** If this project helps you, please ⭐️ the repo and share feedback.
 
-```
-
-> **Note:** Replace placeholder links (`<your‑user>`, image paths, etc.) with your actual GitHub username and assets before publishing.
 ```
